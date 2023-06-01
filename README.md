@@ -1,1 +1,2 @@
-How to be up to date in git
+My first README
+Update from the github website
